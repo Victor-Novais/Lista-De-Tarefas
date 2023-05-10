@@ -11,6 +11,6 @@
 <p>Clone este repositório para o seu computador.</p>
 <p>Abra o arquivo index.html em seu navegador.</p>
 <p>Adicione uma nova tarefa usando o formulário na parte inferior da página.</p>
-<p>Para editar uma tarefa, clique no botão de lápis ao lado dela e faça as alterações desejadas.</p>
-<p>Para excluir uma tarefa, clique no botão de lixeira ao lado dela.</p>
+<p>Para editar uma tarefa, clique no botão de 'editar' ao lado dela e faça as alterações desejadas.</p>
+<p>Para excluir uma tarefa, clique no botão de 'excluir' ao lado dela.</p>
 <p>Alternar entre o modo claro e o modo escuro usando o botão de alternância na parte superior da página.</p>
